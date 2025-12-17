@@ -25,6 +25,11 @@ Why this platform is worth $3,000+:
 - Thumb-friendly buttons.
 - Fast loading times (under 1.5s) so users don't bounce.
 
+### 4. Money-Making Machine (Automated Billing)
+- **Built-in Stripe Integration**: Accept credit cards and membership payments directly on the site.
+- **Set & Forget**: User pays -> Money hits your bank -> Member gets a welcome email. No manual invoicing.
+- **Secure**: Uses the same payment technology as Amazon and Uber.
+
 ---
 
 ## 💰 ROI Calculation (Return on Investment)
@@ -39,13 +44,16 @@ Why this platform is worth $3,000+:
 
 **This website pays for itself in the first month.**
 
+*Plus, consider the time saved by NOT manually chasing invoices or replying to "what are your prices?" emails.*
+
 ---
 
 ## 📦 Deliverables
 When you acquire this platform, you receive:
 1.  **Full Source Code**: Next.js React Application (The industry standard facebook/meta tech stack).
-2.  **Database Integration**: Connected and set up with high-security Supabase storage.
-3.  **Notification System**: Integrated SendGrid Business Email API.
+2.  **Database Integration**: Connected and set up with high-security Supabase storage (Leads & Payments).
+3.  **Payment Gateway**: Fully configured Stripe integration for handling real money.
+4.  **Notification System**: Integrated SendGrid Business Email API.
 4.  **Ownership**: You own the data. You own the code. No monthly "platform fees" forever (unlike Wix/Squarespace).
 
 ---
